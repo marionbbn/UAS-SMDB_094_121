@@ -1,0 +1,15 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"uas_smdb"},
+{"type":"table","name":"login","database":"uas_smdb","data":
+[
+{"username":"maryonababan","password":"maryonababan"}
+]
+}
+,{"type":"table","name":"mahasiswa","database":"uas_smdb","data":
+[
+{"nim":"191401121","nama":"David Lionard S","fakultas":"Fasilkom-TI","prodi":"Ilmu Komputer","email":"lionard678@gmail.com","telp":"0859193560724","alamat":"Medan"},
+{"nim":"19140194","nama":"Maryo Nababan","fakultas":"Fasilkom-TI","prodi":"Ilmu Komputer","email":"mario.nababan2001@gmail.com","telp":"082166930837","alamat":"Medan"}
+]
+}
+]
